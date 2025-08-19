@@ -1,0 +1,58 @@
+[
+  {
+    "id": "C001",
+    "nombre": "Cuadrilla Alfa",
+    "supervisor": "Juan Pérez",
+    "especialidad": "Construcción",
+    "miembros": 8,
+    "proyecto_asignado": "Proyecto Centro Comercial",
+    "estado": "Activa"
+  },
+  {
+    "id": "C002",
+    "nombre": "Cuadrilla Beta",
+    "supervisor": "María García",
+    "especialidad": "Electricidad",
+    "miembros": 6,
+    "proyecto_asignado": "Proyecto Residencial Norte",
+    "estado": "Activa"
+  },
+  {
+    "id": "C003",
+    "nombre": "Cuadrilla Gamma",
+    "supervisor": "Carlos López",
+    "especialidad": "Plomería",
+    "miembros": 5,
+    "proyecto_asignado": "Proyecto Hospital Municipal",
+    "estado": "En Descanso"
+  },
+  {
+    "id": "C004",
+    "nombre": "Cuadrilla Delta",
+    "supervisor": "Ana Rodríguez",
+    "especialidad": "Pintura",
+    "miembros": 7,
+    "proyecto_asignado": "Proyecto Escuela Primaria",
+    "estado": "Activa"
+  },
+  {
+    "id": "C005",
+    "nombre": "Cuadrilla Épsilon",
+    "supervisor": "Luis Martínez",
+    "especialidad": "Herrería",
+    "miembros": 4,
+    "proyecto_asignado": "Proyecto Industrial Sur",
+    "estado": "En Mantenimiento"
+  },
+  {
+    "id": "C006",
+    "nombre": "Cuadrilla Zeta",
+    "supervisor": "Carmen Silva",
+    "especialidad": "Albañilería",
+    "miembros": 9,
+    "proyecto_asignado": "Proyecto Edificio Corporativo",
+    "estado": "Activa"
+  }
+]
+
+
